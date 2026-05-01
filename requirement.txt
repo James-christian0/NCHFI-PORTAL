@@ -1,0 +1,4 @@
+flask
+mangum
+qrcode[pil]
+pillow
